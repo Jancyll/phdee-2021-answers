@@ -13,8 +13,8 @@ import random
 import statsmodels.api as sm
 
 # Set working directories and seed
-datapath = r'C:\Users\dbrewer30\Dropbox\teaching\Courses\BrewerPhDEnv\Homeworks\phdee-2021-homework\homework4'
-outputpath = r'C:\Users\dbrewer30\Dropbox\teaching\Courses\BrewerPhDEnv\Homeworks\phdee-2021-answers\homework4\output'
+datapath = r'C:\\Users\\jancy\\Documents\\GitHub\\phdee-2021-Jancy\\homework4\\code'
+outputpath = r'C:\Users\jancy\Documents\GitHub\phdee-2021-Jancy\homework4\tex'
 
 os.chdir(datapath)
 
